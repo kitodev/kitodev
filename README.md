@@ -1,4 +1,4 @@
-# Hi, I'm Kornelt Toth 👋
+# Hi, I'm Kornel Toth 👋
 
 
 ### Software Engineer and IT Professional
