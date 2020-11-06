@@ -1,4 +1,4 @@
-### Hi, I'm Kornelt Toth 👋
+# Hi, I'm Kornelt Toth 👋
 
 
 ### Software Engineer and IT Professional
@@ -12,4 +12,4 @@ I'm a Software Engineer, i'm a lover of Python, Node, JavaScript, Docker.
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitodev&&show_icons=true)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitodev&&show_icons=true)
