@@ -13,4 +13,4 @@ I'm a Software Engineer, i'm a lover of Python, Node, JavaScript, Docker.
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitodev&&show_icons=true)](https://tikona.hu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitodev&layout=compact)](https://github.com/kitodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitodev)](https://github.com/kitodev/github-readme-stats)
