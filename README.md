@@ -1,7 +1,7 @@
 # Hi, I'm Kornel Toth 👋
 
 
-### Software Engineer and IT Professional
+### Software Engineer
 
 
 I'm a Software Engineer, i'm a lover of Python, Node, Angular, Docker.
