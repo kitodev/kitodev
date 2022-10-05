@@ -4,7 +4,7 @@
 ### Software Engineer and IT Professional
 
 
-I'm a Software Engineer, i'm a lover of Python, Node, JavaScript, Docker.
+I'm a Software Engineer, i'm a lover of Python, Node, Angular, Docker.
 
 [![GitHub](https://img.shields.io/badge/GitHub-kitodev-black)](https://github.com/kitodev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kornel--toth-blue)](https://www.linkedin.com/in/korn%C3%A9l-t%C3%B3th-1aa187148/)
