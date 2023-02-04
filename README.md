@@ -39,7 +39,6 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-kitodev-black)](https://github.com/kitodev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kornel--toth-blue)](https://www.linkedin.com/in/korn%C3%A9l-t%C3%B3th-1aa187148/)
 [![Stack Overflow](https://img.shields.io/badge/Stack&nbsp;Overflow-kornel--toth-orange)](https://stackoverflow.com/users/5300019/korneltoth?tab=profile)
 
 ## GitHub Stats
