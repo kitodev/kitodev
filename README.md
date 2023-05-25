@@ -1,10 +1,10 @@
 # Hi, I'm Kornel Toth 👋
 
 
-### Software Engineer
+### Software Engineer & Team Lead
 
 
-I'm a Software Engineer at Walton System House, and I've been working in tech since 2006.
+I'm a Software Engineer at MENTORTOOLS, and I've been working in tech since 2003.
 
 ## ⚡ Technologies
 
