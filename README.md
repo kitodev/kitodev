@@ -4,7 +4,7 @@
 ### Software Engineer & Team Lead
 
 
-I'm a Software Engineer at MENTORTOOLS, and I've been working in tech since 2003.
+I'm a Software Engineer at Coincash, and I've been working in tech since 2003.
 
 ## ⚡ Technologies
 
